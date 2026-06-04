@@ -1,0 +1,8 @@
+astroquery==0.4.11
+pandas
+numpy
+matplotlib
+scikit-learn
+hdbscan
+umap-learn
+jupyter
