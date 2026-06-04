@@ -60,3 +60,7 @@ jupyter notebook Astronomer.ipynb
 ## 📚 Data Source
 European Space Agency Gaia DR3 Catalog  
 https://gea.esac.esa.int/archive/
+
+
+## Live Demo
+[Click here to see the live app](https://atharva110409-stellar-clustering-app-ddtulj.streamlit.app/)
